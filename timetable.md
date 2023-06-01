@@ -5,7 +5,7 @@ title: "Timetable"
 This is my timetable for the current semester:
 
 |             |   Monday     |  Tuesday     | Wednesday    |  Thursday    |   Friday    |
-|  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
+|  :---  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
 |  8          |              |              |              | [MYT][6]     | [SCV2][2]   |
 |  10         | [AG2T][1]    |  you can           |              |              |             |
 |  12         | [AG2][1]     |  usually        |              | [ÜLK][6]     | [TG][8]     |
