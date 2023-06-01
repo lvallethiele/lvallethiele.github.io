@@ -2,8 +2,9 @@
 layout: default
 title: "Timetable"
 ---
-This is my Time table for the current semester:
-|Time \ Day| Monday    | Tuesday   | Wednesday | Thursday  | Friday   |
+This is my timetable for the current semester:
+
+|     \    | Monday    | Tuesday   | Wednesday | Thursday  | Friday   |
 |:--------:|:---------:|:---------:|:---------:|:---------:|:--------:|
 |  8       |           |           |           |  MyTut    |  SCV2    |
 |  10      |  AG2Tut   |           |           |           |          |
