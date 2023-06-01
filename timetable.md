@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Timetable"
 ---
 This is my timetable for the current semester:
