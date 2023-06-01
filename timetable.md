@@ -1,4 +1,5 @@
 ---
-layout: publications
-title: "Publications"
+layout: default
+title: "Timetable"
 ---
+Test!

@@ -1,4 +1,4 @@
 ---
 layout: notes
-title: "Courses"
+title: "Notes"
 ---
