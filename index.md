@@ -9,9 +9,9 @@ Almost everything on this website is still just sample content and has nothing t
 
 |      |  Mon      |  Tue      |  Wed      |  Thu      |  Fri     |
 |-----:|-----------|-----------|-----------|-----------|----------|
-|  8   |           |           |           |           |          |
-|  10  |  AG II    |           |           |           |          |
-|  12  |           |           |           |           |          |
-|  14  |           |           |           |           |          |
-|  16  |           |           |           |  DCat     |          |
-|  18  |           |           |           |           |          |
+|  8   |           |           |           |  MyTut    |  SCVII   |
+|  10  |  AGIITut  |           |           |           |          |
+|  12  |  AGII     |           |           |  ÜLK      |  TGSem   |
+|  14  |  SCVII    |           |           |           |  AGII    |
+|  16  |  OSLogic  |           |  QPts     |  DCat     |          |
+|  18  |  HomMet   |           |           |           |          |
