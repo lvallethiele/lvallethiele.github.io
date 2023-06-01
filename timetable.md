@@ -4,8 +4,7 @@ title: "Timetable"
 ---
 This is my timetable for the current semester:
 
-<p align="center">
-|             |   Mon        |      Tue     |      Wed     |      Thu     |      Fri    |
+|             |   Monday        |      Tuesday     |      Wednesday     |      Thursday     |      Friday    |
 |  :-------:  |  :--------:  |  :--------:  |  :--------:  |  :--------:  |  :-------:  |
 |  8          |              |              |              | [MYT][6]     | [SCV2][2]   |
 |  10         | [AG2T][1]    |              |              |              |             |
@@ -13,7 +12,6 @@ This is my timetable for the current semester:
 |  2          | [SCV2][2]    |              |              |              | [AG2][1]    |
 |  4          | [OSL][3]     |              | [QPTS][5]    | [DCAT][7]    |             |
 |  6          | [HMET][4]    |              |              |              |             |
-</p>
 
 [1]: https://www.math.uni-bonn.de/people/ydutta/v4a2
 [2]: https://basis.uni-bonn.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=229221&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
